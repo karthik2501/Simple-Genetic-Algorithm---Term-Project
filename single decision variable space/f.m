@@ -1,0 +1,6 @@
+% THIS FUNCTION IS TO BE OPTIMIZED 
+% BY REAL ENCODING SIMPLE GENETIC ALGORITHM
+
+function y = f(x)
+    y = 3*x*x-x*x*x;
+end
